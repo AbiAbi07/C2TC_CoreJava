@@ -15,4 +15,3 @@ public class Encapsulationobject {
         System.out.println(obj);
     }
 }
-

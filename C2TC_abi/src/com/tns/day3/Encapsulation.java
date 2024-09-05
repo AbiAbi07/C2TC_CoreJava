@@ -42,4 +42,3 @@ public class Encapsulation {
         return "OopsConceptDemo [Serial Number=" + serialNum + ", Name=" + name + ", Age=" + age + "]";
     }
 }
-
