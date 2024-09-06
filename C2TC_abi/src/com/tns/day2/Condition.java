@@ -1,6 +1,6 @@
 package com.tns.day2;
 
-public class Condition {
+public class Condition  {
 
     public static void main(String[] args) {
         int num = 7;

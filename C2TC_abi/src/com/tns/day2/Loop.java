@@ -1,6 +1,6 @@
 package com.tns.day2;
 
-public class Loop {
+public class Loop  {
 
     public static void main(String[] args) {
         
